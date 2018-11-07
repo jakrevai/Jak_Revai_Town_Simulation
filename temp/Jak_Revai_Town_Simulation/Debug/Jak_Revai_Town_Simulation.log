@@ -1,0 +1,39 @@
+﻿  Agent.cpp
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\agent.cpp(92): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CollectWaterState.cpp
+  DrinkState.cpp
+  EatState.cpp
+  GatherState.cpp
+  Graph.cpp
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(155): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(163): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(214): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(257): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(258): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(259): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(268): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(269): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\graph.cpp(270): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Jak_Revai_Town_SimulationApp.cpp
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(248): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(254): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(258): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(262): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(266): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(268): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(275): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(276): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(280): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(284): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(288): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(290): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jak\desktop\jak_revai_town_simulation\jak_revai_town_simulation\jak_revai_town_simulationapp.cpp(305): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Node.cpp
+  SleepState.cpp
+  State.cpp
+  StateMachine.cpp
+  WanderState.cpp
+  main.cpp
+  Generating Code...
+  Jak_Revai_Town_Simulation.vcxproj -> C:\Users\Jak\Desktop\Jak_Revai_Town_Simulation\temp\Jak_Revai_Town_Simulation\Debug\Jak_Revai_Town_Simulation.exe
